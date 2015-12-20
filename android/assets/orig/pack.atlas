@@ -1,0 +1,62 @@
+
+pack.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 2, 598
+  size: 768, 1280
+  orig: 768, 1280
+  offset: 0, 0
+  index: -1
+Cloud
+  rotate: false
+  xy: 456, 532
+  size: 125, 64
+  orig: 125, 64
+  offset: 0, 0
+  index: -1
+barrack
+  rotate: false
+  xy: 772, 1728
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+cabinNight
+  rotate: false
+  xy: 2, 144
+  size: 225, 164
+  orig: 225, 164
+  offset: 0, 0
+  index: -1
+heli
+  rotate: false
+  xy: 772, 1618
+  size: 227, 108
+  orig: 227, 108
+  offset: 0, 0
+  index: -1
+tree3
+  rotate: false
+  xy: 2, 310
+  size: 299, 286
+  orig: 299, 286
+  offset: 0, 0
+  index: -1
+windmillMain
+  rotate: false
+  xy: 303, 361
+  size: 151, 235
+  orig: 151, 235
+  offset: 0, 0
+  index: -1
+windmillRotating
+  rotate: false
+  xy: 2, 2
+  size: 139, 140
+  orig: 139, 140
+  offset: 0, 0
+  index: -1
